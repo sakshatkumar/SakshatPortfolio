@@ -2,11 +2,13 @@
 
 This repository contains the code for my Data Science portfolio website, which includes my online resume, projects, work experience, skills, certifications, etc.,
 
-Check it out here!!
+**Check it out here!!**
 
 [Kavya Portfolio Website](https://kavya2099.github.io/Portfolio/)
 
-<!-- ![Kavya Portfolio Website]()  -->
+### Quick look!!
+
+![https://kavya2099.github.io/Portfolio/](https://github.com/Kavya2099/Portfolio/blob/master/images/quick%20look.gif)
 
 <div align="center">
   
@@ -19,7 +21,7 @@ Check it out here!!
 Forked from RyanFitzgerald/devportfolio
 To view a live demo, [click here](https://ryanfitzgerald.github.io/devportfolio/).
 
-Credits to [RyanFitzgerald](https://ryanfitzgerald.github.io/devportfolio/) and [Anushka Verma](https://github.com/verma-anushka/anushkaverma)
+Credits: [RyanFitzgerald](https://github.com/RyanFitzgerald/devportfolio) and [Anushka Verma](https://github.com/verma-anushka/anushkaverma)
 
 
 
