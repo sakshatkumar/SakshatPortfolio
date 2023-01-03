@@ -2,20 +2,24 @@
 
 This repository contains the code for my Data Science portfolio website, which includes my online resume, projects, work experience, skills, certifications, etc.,
 
-Check it out here!
+Check it out here!!
 
 [Kavya Portfolio Website](https://kavya2099.github.io/Portfolio/)
 
+<!-- ![Kavya Portfolio Website]()  -->
+
 <div align="center">
   
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/verma-anushka/anushkaverma)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://verma-anushka.github.io/anushkaverma/)
-[![Author](https://img.shields.io/badge/Author-Anushka%20Verma-blue.svg)](https://www.linkedin.com/in/AVS1508/)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-27%20May,%202021-yellow.svg)](https://verma-anushka.github.io/anushkaverma/)
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-orange.svg)](https://github.com/verma-anushka/anushkaverma)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-blue)](https://kavya2099.github.io/Portfolio/)
+[![Author](https://img.shields.io/badge/Author-Kavya-purple.svg)](https://www.linkedin.com/in/Kavya2099/)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-03%20Jan,%202023-green.svg)](https://kavya2099.github.io/Portfolio/)
 
 -----------------------------------------------------------------------------------------
 Forked from RyanFitzgerald/devportfolio
 To view a live demo, [click here](https://ryanfitzgerald.github.io/devportfolio/).
+
+Credits to [RyanFitzgerald](https://ryanfitzgerald.github.io/devportfolio/) and [Anushka Verma](https://github.com/verma-anushka/anushkaverma)
 
 
 
