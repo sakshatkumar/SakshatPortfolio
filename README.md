@@ -6,9 +6,10 @@ This repository contains the code for my Data Science portfolio website, which i
 
 [Kavya Portfolio Website](https://kavya2099.github.io/Portfolio/)
 
-### Quick look!!
+<!-- ### Quick look!!
 
-![https://kavya2099.github.io/Portfolio/](https://github.com/Kavya2099/Portfolio/blob/master/images/quick%20look.gif)
+![https://kavya2099.github.io/Portfolio/](https://github.com/Kavya2099/Portfolio/blob/master/images/quick%20look.gif) -->
+
 
 <div align="center">
   
