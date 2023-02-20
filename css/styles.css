@@ -300,6 +300,11 @@ footer {
     font-size: 2.25em;
     margin-bottom: 15px
 }
+#lead-content h4 {
+    color: #fff;
+    font-weight: 200;
+    
+}
 
 #lead-overlay {
     position: absolute;
@@ -530,6 +535,16 @@ footer {
 }
 
 #projects h2 {
+    color: #374054;
+    margin-bottom: 50px
+}
+#BIprojects {
+    padding: 50px 15px;
+    border-bottom: 1px solid #dcd9d9;
+    text-align: center
+}
+
+#BIprojects h2 {
     color: #374054;
     margin-bottom: 50px
 }
