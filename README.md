@@ -4,11 +4,11 @@ This repository contains the code for my Data Science portfolio website, which i
 
 **Check it out here!!**
 
-[Kavya Portfolio Website](https://kavya2099.github.io/Portfolio/)
+[Sakshat Portfolio Website](https://sakshatkumar.github.io/SakshatPortfolio/)
 
 <!-- ### Quick look!!
 
-![https://kavya2099.github.io/Portfolio/](https://github.com/Kavya2099/Portfolio/blob/master/images/quick%20look.gif) -->
+
 
 
 <div align="center">
