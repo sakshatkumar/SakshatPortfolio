@@ -265,7 +265,7 @@ footer {
     height: 100vh;
     min-height: 500px;
     max-height: 1080px;
-    background: url(../images/video3.gif);
+    background: url(../images/mainGif.gif);
     background-size: cover;
     padding: 15px;
     overflow: hidden
